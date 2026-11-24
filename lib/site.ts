@@ -14,7 +14,7 @@ export const site = {
   locale: "en_US",
 
   contact: {
-    email: "nourtradingusa@gmail.com" as string | null, // switch to a @nourtrading.com address once email routing is set up
+    email: "info@nourtrading.com" as string | null, // switch to a @nourtrading.com address once email routing is set up
     phone: "(708) 307-5768" as string | null,
     address: null as string | null, // Office address — TO BE CONFIRMED (do not publish a residential address)
     region: "Illinois, United States",
